@@ -15,7 +15,7 @@ fxTheme = {
 fxGUIDTJMCIOTeam = GUID(
     LookUp(
         'Environment Variable Values';
-        'Environment Variable Definition'.'Schema Name' = "agl_144957_tjm_guidteamadmin"
+        'Environment Variable Definition'.'Schema Name' = "144957_tjm_guidteamadmin"
     ).Value
 );;
 fxCurrentDataverseUser = LookUp(
