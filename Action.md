@@ -27,4 +27,4 @@ fxCurrentTeamsUser = ShowColumns(
     Team
 );;
 
-```typescript
+```
