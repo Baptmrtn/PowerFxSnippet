@@ -4,6 +4,7 @@
 
 ```powerfx
 fxCurrentUser = User();;
+fxIsFr = (Language() = "fr-FR");;
 fxTheme = {
     primaryColorHEX: "#1b365f";
     secondaryColorHex: "#EED58E";
