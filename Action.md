@@ -2,7 +2,7 @@
 
 ## Formula
 
-'''
+```powerfx
 fxCurrentUser = User();;
 fxTheme = {
     primaryColorHEX: "#1b365f";
@@ -27,4 +27,4 @@ fxCurrentTeamsUser = ShowColumns(
     Team
 );;
 
-'''
+```typescript
